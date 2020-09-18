@@ -261,7 +261,7 @@
     "neo-async": "^2.6.2",
     "nice-try": "^1.0.5",
     "no-case": "^3.0.3",
-    "node-forge": "^0.9.0",
+    "node-forge": "^0.10.0",
     "node-releases": "^1.1.59",
     "normalize-path": "^3.0.0",
     "npm-run-path": "^2.0.2",
