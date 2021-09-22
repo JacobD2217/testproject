@@ -265,7 +265,7 @@
     "node-releases": "^1.1.59",
     "normalize-path": "^3.0.0",
     "npm-run-path": "^2.0.2",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "object-copy": "^0.1.0",
     "object-inspect": "^1.8.0",
     "object-is": "^1.1.2",
